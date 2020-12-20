@@ -1,2 +1,6 @@
 # WebDev
-This repository contains my Web Development Projects and practice sets.
+
+Repository for my Web Development projects and practice.
+
+## Projects
+- Random Color Generator - [View this Project]()
