@@ -10,4 +10,4 @@ This project generates a random color everytime generate button is clicked.
 - CSS
 - JavaScript
 
-You can see the live demo [here](https://.)
+You can see the live demo [here](https://coderabhii.github.io/rcg/)
